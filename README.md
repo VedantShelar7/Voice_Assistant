@@ -8,7 +8,7 @@ It uses simple libraries such as :-
 * os
 * pyjokes
 
-Most od the code contains functions and conditional statements 
+Most of the code contains functions and conditional statements 
 
 It is very easy to build and quite impressive
 
